@@ -3,7 +3,7 @@
 
 **A decentralized chat application built on the Ethereum Sepolia blockchain.**
 
-[Live Demo](https://smart-chats.netlify.app/)
+(https://cryptalkchatapp.000webhostapp.com/)
 
 ## Overview
 
