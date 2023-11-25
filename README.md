@@ -1,5 +1,5 @@
 
-# BlockChain ChatApp DApp
+# CrypTalk
 
 **A decentralized chat application built on the Ethereum Sepolia blockchain.**
 
