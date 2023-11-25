@@ -14,7 +14,7 @@ BlockChain ChatApp DApp allows users to communicate securely and privately using
 ### Clone the repository
 
 ```bash
-git clone https://github.com/kolinabir/BlockChain-ChatApp-DApp.git
+git clone https://github.com/aristotleBuenaventura/CrypTalk.git
 ```
 
 ### Install dependencies
